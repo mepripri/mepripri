@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Priyal 🚀
 
-![Priyal's Photo](https://raw.githubusercontent.com/mepripri/Preefolio/refs/heads/main/src/assets/icons/github_pic.png)  
+<img src="https://raw.githubusercontent.com/mepripri/Preefolio/refs/heads/main/src/assets/icons/github_pic.png" alt="Priyal's Photo" width="200" height="200" style="border-radius:50%;"/>
+
 *Just a friendly coder exploring the universe of tech!* 🌌
 
 Welcome to my little corner of GitHub! 🎉  
