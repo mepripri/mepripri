@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://priyaldpatel.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge">
   </a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=mepripri&style=for-the-badge&color=red" alt="Profile Views"></a>
 </div>
