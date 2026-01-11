@@ -18,6 +18,7 @@
 </div>
 
 ## 👩🏻 About Me
+---
 
 - 👩‍💻 Front-End Developer fully dedicated to JavaScript -> ReactJS | Next.js | Tailwindcss ■ With early career experience in C# (.NET) and WordPress.
 
@@ -29,6 +30,7 @@
 
 <!-- Stats -->
 ## 📈 GitHub Stats
+---
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mepripri&theme=monokai-metallian&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=weekly&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background&fire=%23DD2727FF" width="51%" />
   <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=mepripri&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Priyal github-readme-stats" width="48%" />
