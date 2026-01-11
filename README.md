@@ -8,7 +8,8 @@
 | |
 | :---: |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyaldpatel/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaldpatel1408@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyaldpatel.lovable.app/) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaldpatel1408@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyaldpatel.lovable.app/) 
 ![Profile-Views](https://komarev.com/ghpvc/?username=mepripri&style=for-the-badge&color=red) |
 
 <!-- Favorite Tools -->
