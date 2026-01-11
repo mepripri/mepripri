@@ -21,7 +21,9 @@
 ## 👩🏻 About Me
 
 - Full Stack Developer passionate about building web applications that work beautifully and are accessible for everyone.
+  
 - I work with React, Node.js, and MongoDB to create seamless experiences from frontend to backend. My background includes optimizing data pipelines at Tata Consultancy Services and now crafting modern web apps at Saint Louis University.
+  
 - When I'm not coding, I'm creating art, which brings creativity into my code and design.
 
 <br />
