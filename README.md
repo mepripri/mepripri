@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">  
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=F85D7F&background=1F222E&center=true&vCenter=true&random=false&width=500&height=40&lines=Welcome+to+my+GitHub+Profile+%3A%29;Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC+I%27m+Priyal+%F0%9F%9A%80;2%2B+years+of+professional+experience" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Sans&weight=500&size=30&duration=2500&pause=800&color=F85D7F&background=1F222E&center=true&vCenter=true&random=false&width=500&height=40&lines=Welcome+to+my+GitHub+Profile+%3A%29;Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC+I%27m+Priyal+%F0%9F%9A%80;2%2B+years+of+professional+experience" width="100%" />
 </div>
-
+<br />
 <div align="center" style="width:500px; border-radius:50%; overflow:hidden;">
   <img src="https://raw.githubusercontent.com/mepripri/Preefolio/refs/heads/main/src/assets/icons/Priyal.png" alt="Priyal's Photo" width="500"/>
 </div>
