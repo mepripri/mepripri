@@ -16,6 +16,7 @@
 ![Profile-Views](https://komarev.com/ghpvc/?username=mepripri&style=for-the-badge&color=F85D7F)
 
 </div>
+<br />
 
 ## 👩🏻 About Me
 
@@ -25,6 +26,7 @@
 
 - ⌨️ After completing refactoring personal-website project, now I've dedicated my time to master Nextjs framework and learn TypeScript alongside efforts for getting hired.
 
+<br />
 
 <!-- Stats -->
 ## 📈 GitHub Stats
