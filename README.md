@@ -61,7 +61,7 @@
 <br />
 <div>
   <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=mepripri&layout=compact&theme=react" alt="Priyal github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mepripri&theme=merko" alt="Priyal github readme activity graph" width="60%" />
+  <img align="center" src="[https://github-readme-activity-graph.vercel.app/graph?username=mepripri&theme=merko](https://github-readme-activity-graph.vercel.app/graph?username=mepripri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)" alt="Priyal github readme activity graph" width="60%" />
 </div>
 
 <br />
