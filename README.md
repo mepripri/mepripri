@@ -10,6 +10,19 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyaldpatel.lovable.app/) 
 ![Profile-Views](https://komarev.com/ghpvc/?username=mepripri&style=for-the-badge&color=red)
 
+<!-- Stats -->
+## 📈 GitHub Stats
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mepripri&theme=monokai-metallian&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=weekly&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background&fire=%23DD2727FF" width="51%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=mepripri&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Priyal github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=mepripri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" alt="Priyal github readme top-langs" width="36%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mepripri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&radius=9" alt="Priyal github readme activity graph" width="63%" />
+</div>
+<br />
+
 <!-- Favorite Tools -->
 ## 🛠️ My Favorite Tools
  <h3>👨‍💻 Programming Languages</h3>
@@ -45,21 +58,6 @@
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?style=flat-square&logo=google%20sheets&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
  </p>
-
-
-## 📈 GitHub Stats
-
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mepripri&theme=monokai-metallian&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=weekly&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background&fire=%23DD2727FF" width="51%" />
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=mepripri&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Priyal github-readme-stats" width="48%" />
-</div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=mepripri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" alt="Priyal github readme top-langs" width="36%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mepripri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&radius=9" alt="Priyal github readme activity graph" width="63%" />
-</div>
-
-<br />
 
 ---
 
