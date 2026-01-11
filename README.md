@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Priyal 🚀
+<div style="display: flex; align-items: center; justify-content: center;">  
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=F8D866&background=1F222E&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+Profile+%3A%29;Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC+I%27m+Priyal+%F0%9F%9A%80;2%2B+years+of+professional+experience" width="84%" />
+</div>
 
 <div align="center" style="width:500px; border-radius:50%; overflow:hidden;">
   <img src="https://raw.githubusercontent.com/mepripri/Preefolio/refs/heads/main/src/assets/icons/Priyal.png" alt="Priyal's Photo" width="500"/>
@@ -9,6 +11,16 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaldpatel1408@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyaldpatel.lovable.app/) 
 ![Profile-Views](https://komarev.com/ghpvc/?username=mepripri&style=for-the-badge&color=red)
+
+## 👦 About Me
+
+- 👩‍💻 Front-End Developer fully dedicated to JavaScript -> ReactJS | Next.js | Tailwindcss ■ With early career experience in C# (.NET) and WordPress.
+
+- 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles.
+
+- ⌨️ After completing refactoring personal-website project, now I've dedicated my time to master Nextjs framework and learn TypeScript alongside efforts for getting hired.
+
+---
 
 <!-- Stats -->
 ## 📈 GitHub Stats
