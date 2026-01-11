@@ -5,10 +5,18 @@
 </div>
 
 <!-- Social Media -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/priyaldpatel/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:priyaldpatel1408@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Portfolio&logoColor=white)](https://priyaldpatel.lovable.app/)
-![Profile-Views](https://komarev.com/ghpvc/?username=mepripri&style=for-the-badge&color=red)
+<div id="badges" style="text-align:center;">
+  <a href="https://www.linkedin.com/in/priyaldpatel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:priyaldpatel1408@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://priyaldpatel.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mepripri&style=for-the-badge&color=red" />
+</div>
 
 <!-- Favorite Tools -->
 ## 🛠️ My Favorite Tools
