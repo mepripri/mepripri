@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Priyal 🚀
 
 <div align="center" style="width:500px; border-radius:50%; overflow:hidden;">
-  <img src="https://raw.githubusercontent.com/mepripri/Preefolio/refs/heads/main/src/assets/icons/github_pic.png" alt="Priyal's Photo" width="500"/>
+  <img src="https://raw.githubusercontent.com/mepripri/Preefolio/refs/heads/main/src/assets/icons/Priyal.png" alt="Priyal's Photo" width="500"/>
 </div>
 
 <!-- Social Media -->
