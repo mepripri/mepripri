@@ -60,8 +60,8 @@
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=mepripri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" alt="Priyal github readme top-langs" width="35%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mepripri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&radius=9" alt="Priyal github readme activity graph" width="64%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=mepripri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" alt="Priyal github readme top-langs" width="36%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mepripri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&radius=9" alt="Priyal github readme activity graph" width="63%" />
 </div>
 
 <br />
