@@ -52,21 +52,19 @@
  </p>
 
 
-<!-- Github Activities -->
-## 📈 Github Stats
-<h3>🔥 Streak Stats</h3>
- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <p><img src="http://streak-stats.demolab.com/?user=mepripri"></p>
-</a>
-<h3>💻 GitHub Profile Stats</h3>
-<div> 
-  <a style="width:50%" href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img alt="Priyal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mepripri&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"> 
-  </a> 
-  <a style="width:50%" href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
-    <img alt="Priyal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mepripri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"> 
-  </a> 
+## 📈 GitHub Stats
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mepripri&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=mepripri&layout=compact&show_icons=true&theme=react" alt="Priyal github-readme-stats" width="48%" />
 </div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=mepripri&layout=compact&theme=react" alt="Priyal github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mepripri&theme=merko" alt="Priyal github readme activity graph" width="60%" />
+</div>
+
+<br />
 
 ---
 
