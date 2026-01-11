@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center;">  
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Sans&weight=500&size=30&duration=2500&pause=800&color=F85D7F&background=1F222E&center=true&vCenter=true&random=false&width=500&height=40&lines=Welcome+to+my+GitHub+Profile+%3A%29;Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC+I%27m+Priyal+%F0%9F%9A%80;2%2B+years+of+professional+experience" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Sans&weight=500&size=30&duration=2500&pause=800&color=F85D7F&background=1F222E&center=true&vCenter=true&random=false&width=500&height=30&lines=Welcome%20to%20my%20GitHub%20Profile%20%3A%29;Hi%20there!%20%F0%9F%91%8B%F0%9F%8F%BC%20I%27m%20Priyal%20Patel;Full-Stack%20Software%20Engineer;Logic%20%2B%20Creativity%20%3D%20Love" width="100%" />
 </div>
 <br />
 <div align="center" style="width:500px; border-radius:50%; overflow:hidden;">
