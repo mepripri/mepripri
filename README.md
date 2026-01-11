@@ -55,25 +55,25 @@
  </p>
  <h3>🧰 Frameworks and Libraries</h3>
  <p>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"></a>
-  <a href="#"><img alt="" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?style=flat-square&logo=material-design&logoColor=white"></a>
-  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=flat-square&logo=express&logoColor=white"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?style=for-the-badge&logo=material-design&logoColor=white"></a>
+  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
  </p>
  <h3>🗄️ Databases and Cloud Hosting</h3>
-  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=flat-square&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-010101.svg?style=flat-square&logo=amazon&logoColor=%23FF9900"></a>
+  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-010101.svg?style=for-the-badge&logo=amazon&logoColor=%23FF9900"></a>
  <h3>💻 Software and Tools</h3>
  <p>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?style=flat-square&logo=google%20sheets&logoColor=white"></a>
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
  </p>
 
 ---
