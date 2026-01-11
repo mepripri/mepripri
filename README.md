@@ -56,7 +56,7 @@
 ## 📈 Github Stats
  <h3>🔥 Streak Stats</h3>
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <p><img src="https://streak-stats.demolab.com?user=mepripri&theme=monokai-metallian&hide_border=true&mode=weekly&fire=DD2727"></p>
+  <p><img src="https://streak-stats.demolab.com/?user=mepripri"></p>
 </a>
  <h3>💻 GitHub Profile Stats</h3>
  <a href="https://github.com/anuraghazra/github-readme-stats">
