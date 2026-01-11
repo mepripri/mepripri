@@ -55,7 +55,7 @@
 ## 📈 GitHub Stats
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/demo/?user=mepripri&theme=monokai-metallian&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=weekly&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background&fire=%23DD2727FF" width="51%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mepripri&theme=monokai-metallian&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=weekly&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background&fire=%23DD2727FF" width="51%" />
   <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=mepripri&layout=compact&show_icons=true&theme=react" alt="Priyal github-readme-stats" width="48%" />
 </div>
 <br />
