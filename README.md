@@ -20,11 +20,9 @@
 
 ## 👩🏻 About Me
 
-- 👩‍💻 Front-End Developer fully dedicated to JavaScript -> ReactJS | Next.js | Tailwindcss ■ With early career experience in C# (.NET) and WordPress.
-
-- 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles.
-
-- ⌨️ After completing refactoring personal-website project, now I've dedicated my time to master Nextjs framework and learn TypeScript alongside efforts for getting hired.
+- Full Stack Developer passionate about building web applications that work beautifully and are accessible for everyone.
+- I work with React, Node.js, and MongoDB to create seamless experiences from frontend to backend. My background includes optimizing data pipelines at Tata Consultancy Services and now crafting modern web apps at Saint Louis University.
+- When I'm not coding, I'm creating art, which brings creativity into my code and design.
 
 <br />
 
