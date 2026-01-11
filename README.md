@@ -51,6 +51,24 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
  </p>
 
+
+ <!-- Github Activities -->
+## 📈 Github Stats
+ <h3>🔥 Streak Stats</h3>
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <p><img src="https://streak-stats.demolab.com?user=mepripri&theme=monokai-metallian&hide_border=true&mode=weekly&fire=DD2727"></p>
+</a>
+ <h3>💻 GitHub Profile Stats</h3>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Priyal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mepripri&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img alt="Priyal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mepripri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+ <img alt="Priyal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mepripri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+</a>
+
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and maybe leave a ⭐ if you like what you see! 🌟
